@@ -1,0 +1,23 @@
+{
+  "name": "nasa-orrery-web-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy" : "gh-pages -d NASA-Orrery-Web-App"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/levinmathewabraham/NASA-Orrery-Web-App.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/levinmathewabraham/NASA-Orrery-Web-App/issues"
+  },
+  "homepage": "https://github.com/levinmathewabraham/NASA-Orrery-Web-App#readme",
+  "dependencies": {
+    "gh-pages": "^6.1.1"
+  }
+}
