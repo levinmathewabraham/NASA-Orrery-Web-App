@@ -1,5 +1,7 @@
 # Nasa-Orrery-Web-App
 
+TEAM NAME: WELTRAUM
+
 This interactive web application provides a visually engaging and informative experience of our solar system. Users can explore celestial bodies like planets, asteroids, and comets, learning about their properties and observing their orbits in real-time. The app leverages 3D graphics and NASA data to create a realistic and educational simulation.
 
 Key features include:-
